@@ -1,0 +1,15 @@
+body{
+	background-color: gray;
+}
+.one{
+	width: 50%;
+	border: 1px dashed yellow;
+}
+.two{
+	width: 30%;
+	border: 1px dashed yellow;
+}
+.three{
+	width: 20%;
+	border: 1px dashed yellow;
+}
